@@ -2,7 +2,7 @@
 
 class MyClass {
 private:
-    bool connect = false;
+    bool connect = true;
 public:
     bool is_connect(void);
 };
